@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src"
   ],
-  "SelectedNode": "\\main.go",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
